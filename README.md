@@ -16,4 +16,4 @@ And then execute:
 
 ## Usage
 
-Post the latest daily kitten into a room by typing ``!dailypuppy`` in chat.`
+Post the latest daily puppy into a room by typing ```!dailypuppy``` in chat.
