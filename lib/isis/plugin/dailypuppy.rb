@@ -18,7 +18,7 @@ module Isis
 
       def response_md
         puppy = scrape
-        %Q(*The Daily Puppy*\n_#{puppy[:header]}_\n#{puppy[:image]}")
+        %Q(*The Daily Puppy*: _#{puppy[:header]}_\n#{puppy[:image]})
       end
 
       def response_text
