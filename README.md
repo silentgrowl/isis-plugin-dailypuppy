@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the latest daily puppy into a room by typing ```!dailypuppy``` in chat.
+
+## Links
+
+* [isis-plugin-dailypuppy on RubyGems](https://rubygems.org/gems/isis-plugin-dailypuppy)
